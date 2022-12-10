@@ -14,14 +14,14 @@
     "test": "elm-test-rs"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.12",
-    "elm-review": "^2.7.5",
+    "autoprefixer": "^10.4.13",
+    "elm-review": "^2.8.5",
     "elm-test": "0.19.1-revision9",
-    "elm-tooling": "^1.8.0",
-    "postcss": "^8.4.17",
-    "sass": "^1.55.0",
-    "tailwindcss": "^3.1.8",
-    "vite": "^3.1.4",
+    "elm-tooling": "^1.10.0",
+    "postcss": "^8.4.19",
+    "sass": "^1.56.2",
+    "tailwindcss": "^3.2.4",
+    "vite": "^3.2.5",
     "vite-plugin-elm": "^2.7.2"
   },
   "dependencies": {
