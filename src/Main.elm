@@ -4,7 +4,7 @@ import Browser exposing (UrlRequest)
 import Browser.Navigation
 import Layout
 import Model exposing (Model, initModel)
-import Msg exposing (Msg(..))
+import Msg exposing (Msg)
 import Page
 import Pages.AboutPage
 import Pages.HomePage
